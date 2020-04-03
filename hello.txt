@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-hi there
 
-=======
+hi there
 Adding in firlst line
 hi there
->>>>>>> cbef73b78ac61362009538d9c44ca20303829db7
 this is for practice. modify 
 adding a new line 
